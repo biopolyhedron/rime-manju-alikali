@@ -1,0 +1,303 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# manju by polyhedron
+#
+# 使用說明
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#  - 2017.10.09
+#
+# 版權歸作者所有
+#
+
+---
+name: manju_alikali
+version: "2017.10.09"
+sort: original
+...
+
+᠋	'
+᠌	'
+‍	'
+‍	'
+ᠠ	a
+ᡝ	e
+ᡳ	i
+ᠣ	o
+ᡠ	u
+ᠠᢇ	aa
+ᡝᡳ	ai
+ᠠᢇ	av
+ᠣᠣ	au
+ᡳᡳ	ii
+ᡠᠣ	uu
+ᠠᡨ	ad
+ᡝᡨ	ed
+ᡳᡨ	id
+ᠣᡨ	od
+ᡠᡨ	ud
+ᠠᡴ	ag
+ᡝᡴ᠋	eg
+ᡳᡴ᠋	ig
+ᠣᡴ	og
+ᡠᡴ᠋	ug
+ᠠᠰ᠌	as
+ᡝᠰ᠌	es
+ᡳᠰ᠌	is
+ᠣᠰ᠌	os
+ᡠᠰ᠌	us
+ᠩ	ng
+ᡬ	k
+ᡤᡳ	ki
+ᡤᡳᡨ	kid
+ᡤᡳᡴ	kig
+ᡤᡳᡴ᠋ᠰ	kigs
+ᡤᡳᠰ᠌	kis
+ᠺ	kh
+ᡤ	g
+ᡤ‍	ge
+ᡤ‍ᠡ᠋	ge
+ᡩ‌ᡤ‍	dge
+ᡩ‌ᡤ‍ᠡ᠋	dge
+᠇‌ᡤ‍	vge
+᠇‌ᡤᠡ᠋	vge
+ᡤ‍ᡨ	ged
+ᡤ‍ᡴ	geg
+ᡤ‍ᡴ᠋ᠰ	gegs
+ᡤ‍ᠰ᠌	ges
+ᡤ‍ᡳ	gi
+ᡤ‍ᡳᡨ	gid
+ᡤ‍ᡳᡴ᠋	gig
+ᡤ‍ᡳᠰ᠌	gis
+ᡤᡡ	gu
+ᡤᡡᡨ	gud
+ᡤᡡᡴ	gug	
+ᡤᡡᠰ᠌	gus
+ᡤᡡᠣ	guu
+ᢚ	gh
+ᢚ‍	ghe
+ᢚ‍ᠡ᠋	ghe
+ᢚᡡ	ghu
+ᢚᡡᠣ	ghuu
+ᢛᠠ	nga
+ᢛ	nge
+ᢛᠡ᠋	nge
+ᢛᡳ	ngi
+ᢛᠣ	ngo
+ᢛᡠ	ngu
+ᢣᡳᠶ	c
+ᠴᡳᠶ	ch
+ᠵᡳᠶ	j
+ᠨᡳᠶ	ny
+ᢞ	tt
+ᡱ	tth
+ᡲ	dd
+ᢟ	ddh
+ᢏ	nn
+ᢠ	t
+ᡨ	th
+ᡩ	d
+ᢡ	dh
+ᠨ	n
+ᢒ	p
+ᡦ	ph
+ᠪ	b
+ᢨ	bh
+ᠮ	m
+ᢜ	ts
+ᡮ	tsh
+ᡮᡟ	tshi
+ᡮᡟᡴ	tshig
+ᡮᡟᡴ᠋ᠰ	tshigs
+ᡮᡟᡨ	tshid
+ᡮᡟᠰ᠌	tshis
+ᡯ	dz
+ᡯᡳ	dzi
+ᡯᡳ᠌	dzi
+ᡯᡳᡴ᠋	dzig
+ᡯᡳᡨ	dzid
+ᡯᡳᠰ᠌	dzis
+ᢝ	dzh
+ᠸ	w
+ᢤ	zh
+ᢥ	z
+᠇	v
+ᠶ	y
+ᠶᡝ	ye
+ᠶᡝᡨ	yed
+ᠶᡝᡴ᠋	yeg
+ᠶᡝᠰ᠌	yes
+ᡬ‍‌ᠶᡝ	kye
+ᡬ‍‌ᠶᡝᡨ	kyed
+ᡬ‍‌ᠶᡝᡴ᠋	kyeg
+ᡬ‍‌ᠶᡝᠰ᠌	kyes
+ᠺ‍‌ᠶᡝ	khye
+ᠺ‍‌ᠶᡝᡨ	khyed
+ᠺ‍‌ᠶᡝᡴ᠋	khyeg
+ᠺ‍‌ᠶᡝᠰ᠌	khyes
+ᡤ‍‌ᠶᡝ	gye
+ᡤ‍‌ᠶᡝᡨ	gyed
+ᡤ‍‌ᠶᡝᡴ᠋	gyeg
+ᡤ‍‌ᠶᡝᠰ᠌	gyes
+ᢒ‍‌ᠶᡝ	pye
+ᢒ‍‌ᠶᡝᡨ	pyed
+ᢒ‍‌ᠶᡝᡴ᠋	pyeg
+ᢒ‍‌ᠶᡝᠰ᠌	pyes
+ᡦ‍‌ᠶᡝ	phye
+ᡦ‍‌ᠶᡝᡨ	phyed
+ᡦ‍‌ᠶᡝᡴ᠋	phyeg
+ᡦ‍‌ᠶᡝᠰ᠌	phyes
+ᠪ‍‌ᠶᡝ	bye
+ᠪ‍‌ᠶᡝᡨ	byed
+ᠪ‍‌ᠶᡝᡴ᠋	byeg
+ᠪ‍‌ᠶᡝᠰ᠌	byes
+ᠮ‍‌ᠶᡝ	mye
+ᠮ‍‌ᠶᡝᡨ	myed
+ᠮ‍‌ᠶᡝᡴ᠋	myeg
+ᠮ‍‌ᠶᡝᠰ᠌	myes
+ᢣᡳ‍‌ᠶᡝ	ce
+ᢣᡳ‍‌ᠶᡝᡨ	ced
+ᢣᡳ‍‌ᠶᡝᡴ᠋	ceg
+ᢣᡳ‍‌ᠶᡝᠰ᠌	ces
+ᠴᡳ‍‌ᠶᡝ	che
+ᠴᡳ‍‌ᠶᡝᡨ	ched
+ᠴᡳ‍‌ᠶᡝᡴ᠋	cheg
+ᠴᡳ‍‌ᠶᡝᠰ᠌	ches
+ᠵᡳ‍‌ᠶᡝ	je
+ᠵᡳ‍‌ᠶᡝᡨ	jed
+ᠵᡳ‍‌ᠶᡝᡴ᠋	jeg
+ᠵᡳ‍‌ᠶᡝᠰ᠌	jes
+ᠨᡳ‍‌ᠶᡝ	nye
+ᠨᡳ‍‌ᠶᡝᡨ	nyed
+ᠨᡳ‍‌ᠶᡝᡴ᠋	nyeg
+ᠨᡳ‍‌ᠶᡝᠰ᠌	nyes
+ᠶᡳ	yi
+ᠶᡳᡨ	yid
+ᠶᡳᡴ᠋	yig
+ᠶᡳᠰ᠌	yis
+ᡬ‍‌ᠶᡳ	kyi
+ᡬ‍‌ᠶᡳᡨ	kyid
+ᡬ‍‌ᠶᡳᡴ᠋	kyig
+ᡬ‍‌ᠶᡳᠰ᠌	kyis
+ᠺ‍‌ᠶᡳ	khyi
+ᠺ‍‌ᠶᡳᡨ	khyid
+ᠺ‍‌ᠶᡳᡴ᠋	khyig
+ᠺ‍‌ᠶᡳᠰ᠌	khyis
+ᡤ‍‌ᠶᡳ	gyi
+ᡤ‍‌ᠶᡳᡨ	gyid
+ᡤ‍‌ᠶᡳᡴ᠋	gyig
+ᡤ‍‌ᠶᡳᠰ᠌	gyis
+ᢒ‍‌ᠶᡳ	pyi
+ᢒ‍‌ᠶᡳᡨ	pyid
+ᢒ‍‌ᠶᡳᡴ᠋	pyig
+ᢒ‍‌ᠶᡳᠰ᠌	pyis
+ᡦ‍‌ᠶᡳ	phyi
+ᡦ‍‌ᠶᡳᡨ	phyid
+ᡦ‍‌ᠶᡳᡴ᠋	phyig
+ᡦ‍‌ᠶᡳᠰ᠌	phyis
+ᠪ‍‌ᠶᡳ	byi
+ᠪ‍‌ᠶᡳᡨ	byid
+ᠪ‍‌ᠶᡳᡴ᠋	byig
+ᠪ‍‌ᠶᡳᠰ᠌	byis
+ᠮ‍‌ᠶᡳ	myi
+ᠮ‍‌ᠶᡳᡨ	myid
+ᠮ‍‌ᠶᡳᡴ᠋	myig
+ᠮ‍‌ᠶᡳᠰ᠌	myis
+ᢣᡳ‍‌ᠶᡳ	ci
+ᢣᡳ‍‌ᠶᡳᡨ	cid
+ᢣᡳ‍‌ᠶᡳᡴ᠋	cig
+ᢣᡳ‍‌ᠶᡳᠰ᠌	cis
+ᠴᡳ‍‌ᠶᡳ	chi
+ᠴᡳ‍‌ᠶᡳᡨ	chid
+ᠴᡳ‍‌ᠶᡳᡴ᠋	chig
+ᠴᡳ‍‌ᠶᡳᠰ᠌	chis
+ᠵᡳ‍‌ᠶᡳ	ji
+ᠵᡳ‍‌ᠶᡳᡨ	jid
+ᠵᡳ‍‌ᠶᡳᡴ᠋	jig
+ᠵᡳ‍‌ᠶᡳᠰ᠌	jis
+ᠨᡳ‍‌ᠶᡳ	nyi
+ᠨᡳ‍‌ᠶᡳᡨ	nyid
+ᠨᡳ‍‌ᠶᡳᡴ᠋	nyig
+ᠨᡳ‍‌ᠶᡳᠰ᠌	nyis
+ᠶᡠ	yu
+ᠶᡠᡨ	yud
+ᠶᡠᡴ᠋	yug
+ᠶᡠᠰ᠌	yus
+ᡬ‍‌ᠶᡠ	kyu
+ᡬ‍‌ᠶᡠᡨ	kyud
+ᡬ‍‌ᠶᡠᡴ᠋	kyug
+ᡬ‍‌ᠶᡠᠰ᠌	kyus
+ᠺ‍‌ᠶᡠ	khyu
+ᠺ‍‌ᠶᡠᡨ	khyud
+ᠺ‍‌ᠶᡠᡴ᠋	khyug
+ᠺ‍‌ᠶᡠᠰ᠌	khyus
+ᡤ‍‌ᠶᡠ	gyu
+ᡤ‍‌ᠶᡠᡨ	gyud
+ᡤ‍‌ᠶᡠᡴ᠋	gyug
+ᡤ‍‌ᠶᡠᠰ᠌	gyus
+ᢒ‍‌ᠶᡠ	pyu
+ᢒ‍‌ᠶᡠᡨ	pyud
+ᢒ‍‌ᠶᡠᡴ᠋	pyug
+ᢒ‍‌ᠶᡠᠰ᠌	pyus
+ᡦ‍‌ᠶᡠ	phyu
+ᡦ‍‌ᠶᡠᡨ	phyud
+ᡦ‍‌ᠶᡠᡴ᠋	phyug
+ᡦ‍‌ᠶᡠᠰ᠌	phyus
+ᠪ‍‌ᠶᡠ	byu
+ᠪ‍‌ᠶᡠᡨ	byud
+ᠪ‍‌ᠶᡠᡴ᠋	byug
+ᠪ‍‌ᠶᡠᠰ᠌	byus
+ᠮ‍‌ᠶᡠ	myu
+ᠮ‍‌ᠶᡠᡨ	myud
+ᠮ‍‌ᠶᡠᡴ᠋	myug
+ᠮ‍‌ᠶᡠᠰ᠌	myus
+ᢣᡳ‍‌ᠶᡠ	cu
+ᢣᡳ‍‌ᠶᡠᡨ	cud
+ᢣᡳ‍‌ᠶᡠᡴ᠋	cug
+ᢣᡳ‍‌ᠶᡠᠰ᠌	cus
+ᠴᡳ‍‌ᠶᡠ	chu
+ᠴᡳ‍‌ᠶᡠᡨ	chud
+ᠴᡳ‍‌ᠶᡠᡴ᠋	chug
+ᠴᡳ‍‌ᠶᡠᠰ᠌	chus
+ᠵᡳ‍‌ᠶᡠ	ju
+ᠵᡳ‍‌ᠶᡠᡨ	jud
+ᠵᡳ‍‌ᠶᡠᡴ᠋	jug
+ᠵᡳ‍‌ᠶᡠᠰ᠌	jus
+ᠨᡳ‍‌ᠶᡠ	nyu
+ᠨᡳ‍‌ᠶᡠᡨ	nyud
+ᠨᡳ‍‌ᠶᡠᡴ᠋	nyug
+ᠨᡳ‍‌ᠶᡠᠰ᠌	nyus
+ᡵ	r
+ᠯ	l
+ᢪ	lh
+ᡧ	sh
+ᢢ	ss
+ᠰ	s
+ᡥ	h
+ᡥᡡ	hu
+ᡥᡡᡨ	hud
+ᡥᡡᡴ	hug
+ᡥᡡᠰ᠌	hus
+ᡥᡡᠣ	huu
+ᡳ	vi
+ᠣ	vu
+ᠠᡳ	avi
+ᠠᠣ	avu
+
+#以下用於少見場合，如尾韻
+ᡨ	d	韻尾，t
+ᠣ᠋	o	無尾，o fvs1
+#ᡠ᠌	u	無尾，u fvs1
+ᡴ	g	韻尾，k
+ᡴ᠋	g	韻尾，k fvs1
+ᢛ	ng	聲母
+ᢇ	v	形式韻尾，基本只在a後
+ᡭ	h	基本不用
+ᠰ᠌	s	元音後韻尾，s fvs2
+ᠨ᠎	n'	特殊韻尾，n mvs
+‍‌ᠶ	y	必須帶勾，zwj zwnj y
+‌‍ᠶᡝ	ye	必須帶勾，zwj zwnj y e
+‍‌ᠶᡳ	yi	必須帶彎，zwj zwnj y i
+‍‌ᠶᡠ	yu	必須帶彎，zwj zwnj y u
