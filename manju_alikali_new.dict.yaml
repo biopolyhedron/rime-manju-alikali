@@ -14,7 +14,7 @@
 
 ---
 name: manju_alikali_new
-version: "2024.02.25"
+version: "2024.02.26"
 sort: original
 ...
 
@@ -89,8 +89,11 @@ sort: original
 ᢛᠣ	ngo
 ᢛᡠ	ngu
 ᢣᡳᠶ	c
+ᢣ	c
 ᠴᡳᠶ	ch
+ᠴ	ch
 ᠵᡳᠶ	j
+ᠵ	j
 ᠨᡳᠶ	ny
 ᢞ	T
 ᡱ	Th
