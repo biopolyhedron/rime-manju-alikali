@@ -36,7 +36,7 @@ menu:
   alternative_select_keys: "123456789"
 
 speller:
-  alphabet: 'abcdefghijklmnopqrstuvwxyzDNST,.'''
+  alphabet: 'abcdefghijklmnopqrstuvwxyzDHLMNRST,.'''
   delimiter: ''
   auto_select: true
   algebra:
@@ -54,4 +54,8 @@ punctuator:  # 只須定義空格一個符號
   half_shape: &punct
     ' ' : { commit: ' ' }
   full_shape: *punct
+
+style: 
+  font_face: "蒙满联合文鉴体"
+#  font_point: 18
 
