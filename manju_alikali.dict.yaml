@@ -7,14 +7,14 @@
 # 
 # Author:
 #  - polyhedron	<biopolyhedron@gmail.com>
-#  - 2017.10.09
+#  - 2024.02.25
 #
 # 版權歸作者所有
 #
 
 ---
 name: manju_alikali
-version: "2017.10.09"
+version: "2024.02.25"
 sort: original
 ...
 
@@ -27,6 +27,7 @@ sort: original
 ᡳ	i
 ᠣ	o
 ᡠ	u
+ᠠ᠎᠇ᠠ	aa
 ᠠᢇ	aa
 ᡝᡳ	ai
 ᠠᢇ	av
