@@ -1,0 +1,57 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: manju_alikali_new
+  name: "滿語阿禮嘎禮轉寫輸入_新"
+  version: "2024.02.25"
+  author:
+    - polyhedron<biopolyhedron@gmail.com>
+  description: 滿語阿禮嘎禮，按Wylie轉寫輸入。本版本需配合“滿蒙聯合文鑑體（0220）”使用，否則變形可能不正確
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 滿阿, 西文 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator  # 先於 editor 才會使空格作符號上屏
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+
+menu:
+  alternative_select_keys: "123456789"
+
+speller:
+  alphabet: 'abcdefghijklmnopqrstuvwxyzDNST,.'''
+  delimiter: ''
+  auto_select: true
+  algebra:
+    - xform /([aeiouUY])G/$1ng/
+
+translator:
+  dictionary: manju_alikali_new
+  enable_user_dict: false
+  enable_sentence: true
+  comment_format:
+    - xform/^~(.*)$/$1/
+
+punctuator:  # 只須定義空格一個符號
+  use_space: true
+  half_shape: &punct
+    ' ' : { commit: ' ' }
+  full_shape: *punct
+

@@ -1,0 +1,145 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# manju alikali new by polyhedron
+#
+# 使用說明
+# 
+# Author:
+#  - polyhedron	<biopolyhedron@gmail.com>
+#  - 2024.02.25
+#
+# 版權歸作者所有
+#
+
+---
+name: manju_alikali_new
+version: "2024.02.25"
+sort: original
+...
+
+᠋	'
+᠌	'
+᠍	'
+‍	'
+‍	'
+ᠠ	a
+ᡝ	e
+ᡳ	i
+ᠣ	o
+ᡠ	u
+ᠠᢇ	aa
+ᡝᡳ	ai
+ᠠᢇ	av
+ᠣᠣ	au
+ᡳᡳ	ii
+ᡠᠣ	uu
+ᠠᡨ	ad
+ᡝᡨ	ed
+ᡳᡨ	id
+ᠣᡨ	od
+ᡠᡨ	ud
+ᠠᡴ	ag
+ᡝᡴ	eg
+ᡝᡴ᠍	eg
+ᡝᡴᠰ	egs
+ᡳᡴ	ig
+ᠣᡴ	og
+ᡠᡴ	ug
+ᠠᠰ᠌	as
+ᡝᠰ᠌	es
+ᡳᠰ᠌	is
+ᠣᠰ᠌	os
+ᡠᠰ᠌	us
+ᠩ	ng
+ᡬ	k
+ᠺ	kh
+ᡤ	g
+ᡤ᠍ᡝ	ge
+ᡤ᠍ᡝᡨ	ged
+ᡤ᠍ᡝᡴ	geg
+ᡤ᠍ᡝᡴᠰ	gegs
+ᡤ᠍ᡝᠰ᠌	ges
+ᡤ᠌ᡳ	gi
+ᡤ᠌ᡳᡨ	gid
+ᡤ᠌ᡳᡴ᠍	gig
+ᡤ᠌ᡳᠰ᠌	gis
+ᡤᡡ	gu
+ᡤᡡᡨ	gud
+ᡤᡡᡴ᠍	gug
+ᡤᡡᠰ᠌	gus
+ᡤᡡᠣ	guu
+ᢚ	gh
+ᢚᡡ	ghu
+ᢚᡡᠣ	ghuu
+ᢛᠠ	nga
+ᢛᡝ	nge
+ᢛᡳ	ngi
+ᢛᠣ	ngo
+ᢛᡠ	ngu
+ᢣᡳᠶ	c
+ᠴᡳᠶ	ch
+ᠵᡳᠶ	j
+ᠨᡳᠶ	ny
+ᢞ	tt
+ᡱ	tth
+ᡲ	dd
+ᢟ	ddh
+ᢏ	nn
+ᢠ	t
+ᡨ	th
+ᡩ	d
+ᢡ	dh
+ᠨ	n
+ᢒ	p
+ᡦ	ph
+ᠪ	b
+ᢨ	bh
+ᠮ	m
+ᢜ	ts
+ᡮ	tsh
+ᡮᡟ	tshi
+ᡮᡟᡴ	tshig
+ᡮᡟᡴ᠋ᠰ	tshigs
+ᡮᡟᡨ	tshid
+ᡮᡟᠰ᠌	tshis
+ᡯ	dz
+ᡯᡳ	dzi
+ᡯᡳ᠌	dzi
+ᡯᡳᡴ	dzig
+ᡯᡳᡨ	dzid
+ᡯᡳᠰ᠌	dzis
+ᢝ	dzh
+ᠸ	w
+ᢤ	zh
+ᢥ	z
+᠇	v
+ᠶ	y
+ᡵ	r
+ᠯ	l
+ᢪ	lh
+ᡧ	sh
+ᢢ	ss
+ᠰ	s
+ᡥ	h
+ᡥᡡ	hu
+ᡥᡡᡨ	hud
+ᡥᡡᡴ᠍	hug
+ᡥᡡᠰ᠌	hus
+ᡥᡡᠣ	huu
+ᡳ	vi
+ᠣ	vu
+ᠠᡳ	avi
+ᠠᠣ	avu
+
+#以下用於少見場合，如尾韻
+ᡨ	d	韻尾，t
+#ᠣ᠋	o	無尾，o fvs1
+#ᡠ᠌	u	無尾，u fvs1
+ᡴ	g	韻尾，k
+ᡴ᠋	g	韻尾，k fvs1
+ᢛ	ng	聲母
+ᢇ	v	形式韻尾，基本只在a後
+ᡭ	h	基本不用
+ᠰ᠌	s	元音後韻尾，s fvs2
+ᠨ᠎	n'	特殊韻尾，n mvs
